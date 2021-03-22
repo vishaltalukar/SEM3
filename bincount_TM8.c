@@ -1,4 +1,4 @@
-//EXPT 9 TREE  
+//EXPT 8 TREE  
 #include<stdio.h>
 #include<stdlib.h>
 int count=0;
