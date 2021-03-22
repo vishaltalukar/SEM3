@@ -1,4 +1,4 @@
-//MSGQ 
+//MSGQ  simulate the working of Messaging System
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
